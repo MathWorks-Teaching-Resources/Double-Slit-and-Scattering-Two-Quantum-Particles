@@ -3,7 +3,7 @@ MATLAB&reg; Live Script contains simulations and visualizations of quantum mecha
 double slit experiment and scattering problem of two quantum particles, providing examples on how computation 
 can help teaching/ studying fundamentals of quantum mechanics. These two problems covered in the Live script are 
 computationally similar, but conceptually different problems: simulating dynamics of a quantum particle in two dimensions (2D) 
-and simulating scattering of two interacting particles off each-other in 1D.
+and simulating scattering of two interacting particles off each-other in 1D. In Appendix analytical derivation of 1D scattering length is presented for bosons interacting with contact delta-function potential.
 The first part of this Live script is a mixture of quantum mechanics basics that lead to simulations of a single paricle's wavefunction's 
 time evolution in a double-slit geometry. To reduce computational complexity we consider a 2D case. Note that this is not an unrealistic situation; 
 for example in experiments on ultracold quantum gases geometrically constrained systems (icluding 2D and 1D systems) are often realized.
